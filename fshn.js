@@ -11,7 +11,7 @@ new Chartist.Pie('.ct-chart', {
 
 
 var data = {
-  series: [5, 3]
+  series: [5, 2]
 };
 
 var sum = function(a, b) { return a + b };
